@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\config",
+    "\\src\\config\\config",
+    "\\src\\middlewares",
+    "\\src\\models",
+    "\\src\\routes",
+    "\\src\\services",
+    "\\src\\socket"
+  ],
+  "SelectedNode": "\\src\\app.js",
+  "PreviewInSolutionExplorer": false
+}
